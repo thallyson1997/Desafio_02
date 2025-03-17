@@ -1,4 +1,4 @@
-# 🚀 **Desafio de Ciência de Dados – Trilha de Programação**  
+# 🚀 **Desafio de Ciência de Dados**  
 
 Este repositório contém a solução do **2º Desafio da Trilha de Ciência de Dados**, dividido em duas partes principais:  
 - **Parte I** – Algoritmo e Lógica de Programação (JavaScript)  
